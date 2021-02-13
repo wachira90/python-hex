@@ -1,9 +1,4 @@
 
-
-'''
-Simple implementation of hexdump
-https://gist.github.com/JonathonReinhart/509f9a8094177d050daa84efcd4486cb
-'''
 # def hexdump(self, data, length=16):
 #     filter = ''.join([(len(repr(chr(x))) == 3) and chr(x) or '.' for x in range(256)])
 #     lines = []
